@@ -1,0 +1,13 @@
+.buttonsWrapper {
+  display: flex;
+  column-gap: 10px;
+}
+.optionButton {
+}
+.optionButton:hover {
+  box-shadow: 4px 3px 9px 0px rgba(168, 166, 168, 1);
+}
+.optionButton:focus {
+  background-color: aqua;
+  border: none;
+}
